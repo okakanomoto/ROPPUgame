@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"機械の樹","order":12,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"お屋敷","order":1,"parentId":0,"scrollX":416.5,"scrollY":312},
+{"id":3,"expanded":true,"name":"機械の街","order":11,"parentId":0,"scrollX":416.5,"scrollY":312},
+{"id":4,"expanded":true,"name":"遊び場","order":4,"parentId":2,"scrollX":410,"scrollY":313},
+{"id":5,"expanded":false,"name":"エントランス","order":2,"parentId":2,"scrollX":410,"scrollY":313},
+{"id":6,"expanded":false,"name":"二つの部屋","order":3,"parentId":2,"scrollX":416.5,"scrollY":312},
+{"id":7,"expanded":false,"name":"地下階段","order":5,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"地下①","order":6,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"地下②","order":7,"parentId":2,"scrollX":416.5,"scrollY":312},
+{"id":10,"expanded":false,"name":"地下③","order":8,"parentId":2,"scrollX":410,"scrollY":313},
+{"id":11,"expanded":false,"name":"地下最深部","order":9,"parentId":2,"scrollX":416.5,"scrollY":312},
+{"id":12,"expanded":false,"name":"秘密の場所","order":10,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"機械樹の内部","order":13,"parentId":3,"scrollX":410,"scrollY":313},
+{"id":14,"expanded":false,"name":"おしまい","order":14,"parentId":0,"scrollX":416.5,"scrollY":312}
+]
